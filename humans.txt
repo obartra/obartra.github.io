@@ -1,0 +1,11 @@
+# humanstxt.org/
+
+# The humans responsible
+
+	Oscar Bartra -- Front End Developer
+
+# TECHNOLOGY COLOPHON
+
+	Node.js
+	JavaScript
+	Bootstrap

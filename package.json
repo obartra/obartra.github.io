@@ -1,0 +1,28 @@
+{
+  "name": "obartra.github.io",
+  "version": "0.0.0",
+  "description": "Oscar Bartra Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obartra/obartra.github.io.git"
+  },
+  "keywords": [
+    "Oscar",
+    "Bartra",
+    "Portfolio"
+  ],
+  "author": "Oscar Bartra",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/obartra/obartra.github.io/issues"
+  },
+  "homepage": "https://github.com/obartra/obartra.github.io#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}

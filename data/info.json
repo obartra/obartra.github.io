@@ -1,0 +1,30 @@
+{
+	"contact": {
+		"twitter": "https://twitter.com/obartra",
+		"github": "https://github.com/obartra",
+		"linkedin": "https://linkedin.com/in/oscarbartra",
+		"email": "obartra@gmail.com"
+	},
+	"projects": [
+		{
+			"title": "PlaceLocal",
+			"description": "At PaperG, I've had the wonderful opportunity to develop tools to create and manage cross-platform programmatic creatives. Check out our&nbsp;<a target=\"_blank\" href=\"https://youtu.be/CjYnYDhZqTY\">promo video</a>.",
+			"img": "placelocal.png"
+		},
+		{
+			"title": "WISDM",
+			"description": "With Jeremy Magland, PhD at University of Pennsylvania, we developed&nbsp;<a target=\"_blank\" href=\"http://wisdmhub.org\">WISDM</a>&nbsp;(Web-Interactive Scientific Data Manager) a cloud based solution for fMRI analysis and neuroimaging data sharing.",
+			"img": "wisdm.png"
+		},
+		{
+			"title": "Pure CSS Mouse<br>Over Parallax",
+			"description": "A fun experiment that uses a pure CSS solution for mouse over parallax. The goal was to make a&nbsp;<a target=\"_blank\" href=\"https://cssmouseoverparallax.appspot.com/\">simple tutorial</a>. There are plenty of guides out there on how to make pure CSS scrolling parallax but not for mouse over parallax.",
+			"img": "parallax.png"
+		}
+	],
+	"css": [
+		"./node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"./css/index.css"
+	],
+	"processedCss": false
+}

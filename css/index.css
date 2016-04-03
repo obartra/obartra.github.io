@@ -29,7 +29,7 @@ h3 {
 	padding-bottom: 50px;
 	text-align: center;
 	color: #f8f8f8;
-	background: url(../img/intro-bg.jpg) no-repeat center center;
+	background: url(img/oscar-bg.jpg) no-repeat center center;
 	background-attachment: fixed;
 	background-size: cover;
 }
@@ -111,7 +111,7 @@ h3 {
 .banner {
 	padding: 100px 0;
 	color: #f8f8f8;
-	background: url(../img/banner-bg.jpg) no-repeat center center;
+	background: url(img/bottom-bg.jpg) no-repeat center center;
 	background-size: cover;
 	background-attachment: fixed;
 }

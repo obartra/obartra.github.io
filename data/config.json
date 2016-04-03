@@ -1,0 +1,22 @@
+{
+	"html": {
+		"useShortDoctype": true,
+		"removeTagWhitespace": true,
+		"removeStyleLinkTypeAttributes": true,
+		"removeScriptTypeAttributes": true,
+		"removeRedundantAttributes": true,
+		"removeOptionalTags": true,
+		"removeComments": true,
+		"removeAttributeQuotes": true,
+		"minifyJS": true,
+		"minifyCSS": true,
+		"collapseWhitespace": true,
+		"collapseInlineTagWhitespace": true,
+		"collapseBooleanAttributes": true
+	},
+	"css": {
+		"advanced": true,
+		"aggressiveMerging": true,
+		"keepSpecialComments": 0
+	}
+}

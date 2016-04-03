@@ -23,6 +23,9 @@
   "homepage": "https://github.com/obartra/obartra.github.io#readme",
   "devDependencies": {
     "bootstrap": "^3.3.6",
-    "font-awesome": "^4.5.0"
+    "clean-css": "^3.4.11",
+    "html-minifier": "^1.4.0",
+    "lodash": "^4.7.0",
+    "uncss": "^0.13.0"
   }
 }

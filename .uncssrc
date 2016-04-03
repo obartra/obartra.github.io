@@ -1,0 +1,15 @@
+{
+	"ignore": [],
+	"media": ["max-width: 767px", "max-width: 1199px"],
+	"csspath": ".",
+	"stylesheets": [
+		"node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"css/index.css"
+	],
+	"ignoreSheets": [
+		"/fonts.googleapis/"
+	],
+	"timeout": 1000,
+	"htmlroot": ".",
+	"report": true
+}

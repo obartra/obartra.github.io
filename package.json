@@ -4,17 +4,13 @@
   "description": "Oscar Bartra Portfolio",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/obartra/obartra.github.io.git"
   },
-  "keywords": [
-    "Oscar",
-    "Bartra",
-    "Portfolio"
-  ],
+  "keywords": ["Oscar", "Bartra", "Portfolio"],
   "author": "Oscar Bartra",
   "license": "UNLICENSED",
   "bugs": {

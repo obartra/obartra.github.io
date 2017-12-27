@@ -1,30 +1,45 @@
 {
-	"contact": {
-		"twitter": "https://twitter.com/obartra",
-		"github": "https://github.com/obartra",
-		"linkedin": "https://linkedin.com/in/oscarbartra",
-		"email": "obartra@gmail.com"
-	},
-	"projects": [
-		{
-			"title": "PlaceLocal",
-			"description": "At PaperG, I've had the wonderful opportunity to develop tools to create and manage cross-platform programmatic creatives. Check out our&nbsp;<a target=\"_blank\" href=\"https://youtu.be/CjYnYDhZqTY\">promo video</a>.",
-			"img": "placelocal.png"
-		},
-		{
-			"title": "WISDM",
-			"description": "With Jeremy Magland, PhD at University of Pennsylvania, we developed&nbsp;<a target=\"_blank\" href=\"http://wisdmhub.org\">WISDM</a>&nbsp;(Web-Interactive Scientific Data Manager) a cloud based solution for fMRI analysis and neuroimaging data sharing.",
-			"img": "wisdm.png"
-		},
-		{
-			"title": "Pure CSS Mouse<br>Over Parallax",
-			"description": "A fun experiment that uses a pure CSS solution for mouse over parallax. The goal was to make a&nbsp;<a target=\"_blank\" href=\"https://cssmouseoverparallax.appspot.com/\">simple tutorial</a>. There are plenty of guides out there on how to make pure CSS scrolling parallax but not for mouse over parallax.",
-			"img": "parallax.png"
-		}
-	],
-	"css": [
-		"./node_modules/bootstrap/dist/css/bootstrap.min.css",
-		"./css/index.css"
-	],
-	"processedCss": false
+  "contact": {
+    "twitter": "https://twitter.com/obartra",
+    "github": "https://github.com/obartra",
+    "linkedin": "https://linkedin.com/in/oscarbartra",
+    "email": "obartra@gmail.com"
+  },
+  "projects": [
+    {
+      "title": "Axon Records",
+      "description":
+        "We are building the next generation Records Management System to help law enforcement solve crime faster and prevent it from occurring in the future.&nbsp;<a target=\"_blank\" href=\"https://youtu.be/CjYnYDhZqTY\">This is our vision</a>.",
+      "img": "ecom.png"
+    },
+    {
+      "title": "xflex",
+      "description":
+        "xflex is a is a configurable grid and layout engine for React. With xflex, you can eliminate your layout css or reduce it to just a few lines. Check out the&nbsp;<a target=\"_blank\" href=\"https://github.com/xflex/xflex\">github project</a>.",
+      "img": "xflex.png"
+    },
+    {
+      "title": "ssim",
+      "description":
+        "ssim is javascript project that implements and replicates the image comparison algorithms described by Zhou Wang et al. The code is available&nbsp;<a target=\"_blank\" href=\"https://github.com/obartra/ssim\">here</a>.",
+      "img": "ssim.png"
+    },
+    {
+      "title": "WISDM",
+      "description":
+        "With Jeremy Magland, PhD at University of Pennsylvania, we developed&nbsp;<a target=\"_blank\" href=\"http://wisdmhub.org\">WISDM</a>&nbsp;(Web-Interactive Scientific Data Manager) a cloud based solution for fMRI analysis and neuroimaging data sharing.",
+      "img": "wisdm.png"
+    },
+    {
+      "title": "PlaceLocal",
+      "description":
+        "I've had the opportunity to develop tools to create and manage cross-platform programmatic creatives with Thunder. Check out the&nbsp;<a target=\"_blank\" href=\"https://youtu.be/CjYnYDhZqTY\">promo video</a>.",
+      "img": "placelocal.png"
+    }
+  ],
+  "css": [
+    "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+    "./css/index.css"
+  ],
+  "processedCss": false
 }
